@@ -38,7 +38,7 @@
         <dependency>
             <groupId>org.ow2.asm</groupId>
             <artifactId>asm</artifactId>
-            <version>6.2.1</version>
+            <version>9.2</version>
         </dependency>
         <dependency>
             <groupId>com.beust</groupId>
@@ -137,6 +137,6 @@
                     </execution>
                 </executions>
             </plugin>
-        </plugins>
+				</plugins>
     </build>
 </project>
